@@ -1,0 +1,6 @@
+C:\Users\opilane\projects\Lumememm\Lumememm\bin\Debug\Lumememm.exe.config
+C:\Users\opilane\projects\Lumememm\Lumememm\bin\Debug\Lumememm.exe
+C:\Users\opilane\projects\Lumememm\Lumememm\bin\Debug\Lumememm.pdb
+C:\Users\opilane\projects\Lumememm\Lumememm\obj\Debug\Lumememm.csprojAssemblyReference.cache
+C:\Users\opilane\projects\Lumememm\Lumememm\obj\Debug\Lumememm.exe
+C:\Users\opilane\projects\Lumememm\Lumememm\obj\Debug\Lumememm.pdb
